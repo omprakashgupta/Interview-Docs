@@ -1,0 +1,11 @@
+=================================
+-- Infosys
+=================================
+Q.1 -> SQL optimization.
+Q.2 -> Paging in StoreProcedure.
+Q.3 -> Create DeadLock & solution.
+Q.4 -> How to work with existing database.
+Q.5 -> Use case of Triggers.
+Q.6 -> What is the order sequence - Where, Groub By, Order By, Having clause.
+Q.7 -> When to use sub query.
+Q.8 -> How do you use aggregate.

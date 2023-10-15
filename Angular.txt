@@ -1,0 +1,2 @@
+Q.1-> Promise and Observable?
+Ans-> Observable can emit multiple values. A promise can emit only a single value at a time. Observables are lazy when we subscribe then only that will execute. Promises are not lazy; they will execute immediately on creation.

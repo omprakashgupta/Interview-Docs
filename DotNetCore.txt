@@ -1,0 +1,23 @@
+Q.1 -> Tell me some features of .netcore.
+Ans -> a) It is open source and platform independent.
+        b) It is very ligh weight and much faster than .net framework.
+        c) There is inbuilt dependency injection.
+        d) We can develop microservice, cloud app and IOT application.
+
+Q.2 -> Dependency Injection in dotnetcore.
+Ans -> Dependency injection creates instance of our services. I use constructor level dependency injection.
+
+Q.3 -> How to enable session in .dotnetcore?
+Ans -> By using UseSession & UseSession middleware.
+
+=================================
+-- Infosys
+=================================
+Q.1 -> Development process of your organization(Requirement gathering -> storyboard -> sprint).
+Q.2 -> What was your role in project.
+Q.3 -> How to do UnitTest.
+Q.4 -> Difference between Middleware & Filters.
+Q.5 -> Benifits of Dependency Injection.
+Q.6 -> Benifits of SOLID.
+Q.7 -> How to process excel data if there are 5k rows.
+Q.8 -> 
